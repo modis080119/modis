@@ -1,0 +1,13 @@
+MVP Requirements : 
+(MVP : Minimum Viable Product)
+1.	Connection to at least one POS system / Merchant
+2.	Android app with our basic functionalities defined in diagram mvp_1
+3.	Web product mimics  (android app) 
+(XYZ : )
+1.	Mock Dataset with all permutation combinations of Merchant/POS system/Prodcategories..
+2.	Android app with minimal 2 templates
+
+Diagram mvp_1 :
+Home screen : (Not logged in)
+	A message saying that you are not logged in, to login ensure you have allowed sms send access.. Once allowed, it takes you to home screen (logged in) : Straight away it signs up and logs you in….
+Home Screen : Logged in
