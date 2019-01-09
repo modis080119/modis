@@ -3,6 +3,28 @@ Edited by om from Mac and synced using git commands
 
 ************************************************
 
+Moving the first doc from Google Keep that we created yesterday... Lets use git.. Not Google Keep....
+
+
+
+This is our first note we keep it in Google Keep.
+If we feel it better to move it elsewhere we do it later.
+
+Terms
+MVP : Something that could qualify for a discussion with investor
+<XYZ> : Something that will tell us we are on the way to MVP.
+Useless App : Om's Virgin Android app that does nothing... 
+
+
+ETA s
+MVP : TBD (on the below ETA)
+<XYZ> : 24.2.19
+Useless App... : 13.1.19
+
+******************************************************************************
+
+
+
 MVP Requirements : 
 (MVP : Minimum Viable Product)
 1.	Connection to at least one POS system / Merchant
@@ -16,3 +38,4 @@ Diagram mvp_1 :
 Home screen : (Not logged in)
 	A message saying that you are not logged in, to login ensure you have allowed sms send access.. Once allowed, it takes you to home screen (logged in) : Straight away it signs up and logs you in….
 Home Screen : Logged in
+
